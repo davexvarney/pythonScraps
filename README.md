@@ -1,2 +1,3 @@
 # pythonScraps
-Repo for python tests
+Repo for python learning code
+
